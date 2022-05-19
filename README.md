@@ -1,3 +1,5 @@
+SC Free 
+
 # perintah
 $ pkg upgrade && pkg update
 
