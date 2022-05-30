@@ -1,4 +1,7 @@
 SC Free 
+#
+
+<a href="https://ibb.co/hdvGXdh"><img src="https://i.ibb.co/hdvGXdh/FB-IMG-16539234432035114.jpg" alt="FB-IMG-16539234432035114" border="0"></a>
 
 # perintah
 $ pkg upgrade && pkg update
