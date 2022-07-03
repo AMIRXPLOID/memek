@@ -21,7 +21,7 @@ $ cd memek
 
 $ git pull
 
-$ python memek.py
+$ python JAV.py
 ```
 
 # Hasil 
