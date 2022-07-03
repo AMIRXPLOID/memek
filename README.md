@@ -1,10 +1,22 @@
-# brute
-# Jangan diperjual belikan
 
-``Menu``
 
-![Screenshot_20220702_215317.jpg](https://user-images.githubusercontent.com/96907156/174421016-f22899c7-76de-4576-8c65-917c5affbcb7.jpg)
 
-``Hasil``
+```
+$ apt upgarde && apt update
 
-![Screenshot_2022-06-16-20-59-08-78_84d3000e3f4017145260f7618db1d683.jpg](https://user-images.githubusercontent.com/96907156/174421059-ff294bed-5748-46a6-98ce-fcf4e5cea2a1.jpg)
+$ pkg install python
+
+$ pkg install git
+ 
+$ pkg install bs4
+
+$ pip install requests
+
+$ rm -fr memek
+
+$ git clone https://github.com/AMIRXPLOID/memek
+
+$ cd memek
+
+$ python memek.py
+```
