@@ -20,3 +20,6 @@ $ cd memek
 
 $ python memek.py
 ```
+
+# Hasil 
+<a href="https://ibb.co/pP5Gx3r"><img src="https://i.ibb.co/FWCNKBq/Screenshot-20220702-215317.jpg" alt="Screenshot-20220702-215317" border="0"></a>
