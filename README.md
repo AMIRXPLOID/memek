@@ -19,6 +19,8 @@ $ git clone https://github.com/AMIRXPLOID/memek
 
 $ cd memek
 
+$ git pull
+
 $ python memek.py
 ```
 
