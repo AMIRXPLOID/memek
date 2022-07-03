@@ -3,7 +3,7 @@
 
 ``Menu``
 
-![Screenshot_2022-06-18-10-23-16-38.jpg](https://user-images.githubusercontent.com/96907156/174421016-f22899c7-76de-4576-8c65-917c5affbcb7.jpg)
+![Screenshot_20220702_215317.jpg](https://user-images.githubusercontent.com/96907156/174421016-f22899c7-76de-4576-8c65-917c5affbcb7.jpg)
 
 ``Hasil``
 
